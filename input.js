@@ -6,7 +6,7 @@ bianliang = "dwjkAccounts"
 wxsjts = "0"
 
 
-ym = "1"  #比如不同的账号，在不同的群里可开启此功能！
+ym = "1"  
 
 jhm = ""
 
@@ -22,11 +22,11 @@ import random
 sjmc = "dwjk"
 
 
-time.sleep(random.randint(1, 3)) # 单位秒
+time.sleep(random.randint(1, 3))
 
 
 
-isj = 0 # 单位秒（也就是30分钟×60秒=1800秒）
+isj = 0
 
 
 
